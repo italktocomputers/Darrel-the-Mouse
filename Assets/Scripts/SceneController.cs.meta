@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 174d6c330fed745378f59507dd2bdcd4
+timeCreated: 1476724791
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - livesLabel: {instanceID: 0}
+  - scoreboardLabel: {instanceID: 0}
+  - redrocksLabel: {instanceID: 0}
+  - bluerocksLabel: {instanceID: 0}
+  - clearStreakLabel: {instanceID: 0}
+  - jumbotron: {instanceID: 0}
+  - textMessageLabel: {instanceID: 0}
+  - hitSoundWav: {instanceID: 0}
+  - jumpSoundWav: {instanceID: 0}
+  - poofSoundWav: {instanceID: 0}
+  - powerSoundWav: {instanceID: 0}
+  - gameOverSoundWav: {instanceID: 0}
+  - difficultyLabel: {instanceID: 0}
+  - Koala: {instanceID: 0}
+  - camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
