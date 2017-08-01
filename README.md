@@ -2,7 +2,7 @@
 
 ![Darrel The Mouse](Assets/Resources/icons/icons-01.png)
 
-Darrel the Mouse is a 2D side scroller video game developed in Unity3D 5.6.  It's mobile friendly!  If you would like to collabrate in anyway, let me know.
+Darrel the Mouse is a 2D side scroller video game developed in Unity3D 5.6.  It's mobile friendly!  ALL graphics and code were developed by me.  If you would like to collabrate in anyway, let me know.
 
 ### Requirements:
 
